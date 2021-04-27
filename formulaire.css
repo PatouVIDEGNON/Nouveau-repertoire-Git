@@ -37,3 +37,73 @@ margin-left: 100px;
 #conn{
     margin-left: 80px;
 }
+
+
+
+details > summary {
+    padding: 4px;
+    width: 200px;
+    background-color: #d81b60;
+    border: none;
+    box-shadow: 1px 1px 2px #bbbbbb;
+    cursor: pointer;
+    color: white;
+    caret-color: cornsilk;
+
+    font-weight: bold;
+    text-align: center;
+}
+
+details > p {
+    background-color: #eeeeee;
+    padding: 14px;
+    margin: 0;
+    box-shadow: 1px 1px 2px #bbbbbb;
+}
+
+details > ol {
+    background-color: #eeeeee;
+    padding: 14px;
+    margin: 0;
+    box-shadow: 1px 1px 2px #bbbbbb;
+}
+
+
+
+
+.console, #console{
+    background-color: black;
+    color: white;
+    border-radius: 2px;
+    border: 2px solid silver;
+    text-align: left;
+    padding: 15px;
+
+}
+.resume{
+    border: 1px solid silver;
+    background-color: #958858;
+    width: 100px;
+}
+.syntaxe{
+    border: 1px solid white;
+    background-color: chartreuse;
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 15px;
+    width: 70%;
+}
+
+code{
+    border: 1px solid white;
+    background-color: #eee;
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 15px;
+    display: block;
+    width: 70%;
+    margin: auto;
+}
+
