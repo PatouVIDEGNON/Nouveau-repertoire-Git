@@ -1,0 +1,30 @@
+#username{ padding: 15px;
+
+
+}
+.form{
+    
+     margin-left: 370px ;
+     margin-top: 150px;
+
+}
+input{
+    padding: 15px;
+    width: 300px;
+}
+button{
+    background-color: green;
+    margin-left: 120px;
+    width: 120px;
+    height: 40px;
+    color: white;
+    border-radius: 8px;
+}
+body{
+    background-image: url( background.jpg);
+    background-size: cover;
+}
+
+h1{
+margin-left: 100px;
+}
